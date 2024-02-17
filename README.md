@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi! My name is **Pradeep Maurya** by profession I am a Student and I have just started my journey in programming.
+ 
+### Technologies I am Learning Now<br/>
+**Frontend Technologies**<br/>
 
-<!--
-**webdevpradeep/webdevpradeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
-Here are some ideas to get you started:
+**Basic Tools**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Git](https://img.shields.io/badge/git-88CE02.svg?style=flat&logo=git&logoColor=white)
+
+### How to reach me -
+
+- e-mail: Currently Learning! 
+- website: Currently Building
