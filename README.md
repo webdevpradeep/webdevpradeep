@@ -20,5 +20,5 @@ Deployment Technologies
 
 ### How to reach me -
 
-- e-mail: Currently Learning! 
+- e-mail:pradeep25072004maurya@gmail.com
 - website: Currently Building
