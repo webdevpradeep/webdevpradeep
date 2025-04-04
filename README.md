@@ -11,6 +11,7 @@ Hi! My name is **Pradeep Maurya** by profession I am a Student and I have just s
 **Basic Tools**
 
 ![Git](https://img.shields.io/badge/git-88CE02.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://camo.githubusercontent.com/91a2351b7179ad616fbeb72c1618d13fe257e60be6627180d5174fa6ec3d0200/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562)
 
 Deployment Technologies
 
