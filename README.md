@@ -6,6 +6,7 @@ Hi! My name is **Pradeep Maurya** by profession I am a Student and I have just s
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://camo.githubusercontent.com/42136141f287a74b3e03a32487c33cf87ea59eda97a76d3366836ae080c99bcb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f7374796c653d666c6174266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)
 ![React](https://camo.githubusercontent.com/e115b33eb81050c1cb6ea7f49a278a9d7a1e6bf859091bf06c4fce8b8caefff1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3035313232413f7374796c653d666c6174266c6f676f3d7265616374)
 
 **Basic Tools**
